@@ -20,7 +20,7 @@ st.set_page_config(
 )
 
 PRIMARY = "#1F5C99"
-NAVY = "#0A2342"
+NAVY = "#FF00FF"
 AMBER = "#E8A838"
 GREEN = "#2E7D32"
 RED = "#C0392B"
@@ -73,7 +73,7 @@ st.markdown(f"""
 st.markdown("""
 <div class="app-header">
     <h1>🏗️ İnşaat Proje Maliyeti Tahmin Aracı</h1>
-    <p>Yiğit Hacı Arif Kütük 0532 711 5964 2022232602</p>
+    <p>Yiğit Hacı Arif Kütük - 0532 711 5964 - 2022232602</p>
 </div>
 """, unsafe_allow_html=True)
 
